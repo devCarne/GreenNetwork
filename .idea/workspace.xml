@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2cd5b347-268d-4775-8c44-93178edbb904" name="Changes" comment="" />
+    <list default="true" id="2cd5b347-268d-4775-8c44-93178edbb904" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day27/Day27.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day27/src/swingCalcuator/SimpleSwingCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day27/src/swingEx/ButtonWithImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day27/src/swingEx/FirstSwingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day27/src/swingEx/JLabelEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day27/src/swingEx/ListenerEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day27/src/swingEx/SimpleObjectSwingEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day27/src/swingEx/SwingFromExtend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day27/src/swingEx/TextFieldEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day27/src/swingEx/cross.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day27/src/swingMemo/SimpleMemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day27/src/threadEx/ThreadEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,26 +30,39 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="21RB0kjKCTcG0o0Te0IDlPe1D16" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.ClientServerTest_Client">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="swing.App" />
-      <module name="Day26" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\project\GreenNetwork\Day27\src\swingEx" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ThreadEx">
+    <configuration name="JLabelEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swingEx.JLabelEx" />
+      <module name="Day27" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="swing.*" />
+          <option name="PATTERN" value="swingCalcuator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -41,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClientServerTest_Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="clientServer.ClientServerTest_Client" />
-      <module name="Day26" />
+    <configuration name="SimpleMemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swingMemo.SimpleMemo" />
+      <module name="Day27" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="clientServer.*" />
+          <option name="PATTERN" value="swingMemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClientServerTest_Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="clientServer.ClientServerTest_Server" />
-      <module name="Day26" />
+    <configuration name="SimpleSwingCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swingCalcuator.SimpleSwingCalculator" />
+      <module name="Day27" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="clientServer.*" />
+          <option name="PATTERN" value="swingCalcuator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InetAddressTestApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inetaddress.InetAddressTestApp" />
-      <module name="Day26" />
+    <configuration name="TextFieldEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swingEx.TextFieldEx" />
+      <module name="Day27" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="socket.*" />
+          <option name="PATTERN" value="swingCalcuator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SocketTestApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="socket.SocketTestApp" />
-      <module name="Day26" />
+    <configuration name="ThreadEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threadEx.ThreadEx" />
+      <module name="Day27" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="socket.*" />
+          <option name="PATTERN" value="threadEx.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ClientServerTest_Client" />
-        <item itemvalue="Application.ClientServerTest_Server" />
-        <item itemvalue="Application.SocketTestApp" />
-        <item itemvalue="Application.App" />
-        <item itemvalue="Application.InetAddressTestApp" />
+        <item itemvalue="Application.ThreadEx" />
+        <item itemvalue="Application.SimpleMemo" />
+        <item itemvalue="Application.SimpleSwingCalculator" />
+        <item itemvalue="Application.TextFieldEx" />
+        <item itemvalue="Application.JLabelEx" />
       </list>
     </recent_temporary>
   </component>
@@ -114,6 +143,21 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -121,11 +165,6 @@
           <url>file://$PROJECT_DIR$/Day26/src/clientServer/ClientServerTest_Server.java</url>
           <line>9</line>
           <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Day26/src/clientServer/ClientServerTest_Client.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
